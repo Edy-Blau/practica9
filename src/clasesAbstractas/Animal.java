@@ -19,4 +19,7 @@ public abstract class Animal extends SerVivo{
         System.out.println("Respiramos por medio de un sistema de pulmones o de branquias");
     }
     
+    public void cazar(){
+        System.out.println("Cazamos o recolectamos nuestra comida");
+    }
 }
