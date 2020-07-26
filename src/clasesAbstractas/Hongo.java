@@ -21,4 +21,8 @@ public class Hongo extends SerVivo{
         System.out.println("Respiramos de manera anaerobia, pero también aerobia.");
     }
     
+    public void vivir(){
+        System.out.println("Puedo existir en diferentes tamanos y formas");
+    }
+    
 }
